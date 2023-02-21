@@ -12,7 +12,7 @@ namespace AddDate
 {
     public partial class form1 : Form
     {
-        List<(string, string)> list = new List<(string, string)>();
+      
         public form1()
         {
             InitializeComponent();
